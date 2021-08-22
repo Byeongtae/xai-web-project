@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # Add a title
-st.title('My first app_')
+st.title('My first app__')
 # Add some text
 st.text('Streamlit is great')
 
